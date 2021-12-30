@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-30T12:58:03.716Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="R7Zb70iInq931Wc9HsL1" version="15.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-30T13:00:26.107Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="Ec481rkNvoAd-0lA6z7O" version="15.8.2" type="github">
   <diagram id="MjdOXrJQTWFa9QF7BxTR" name="Page-1">
-    <mxGraphModel dx="1113" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -63,9 +63,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-NTaaX5w-wmXJWBAAZoD-21" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontColor=#000000;fillColor=default;align=center;" vertex="1" parent="1">
-          <mxGeometry x="680" y="155" width="160" height="60" as="geometry" />
+          <mxGeometry x="667" y="155" width="147" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-NTaaX5w-wmXJWBAAZoD-22" value="&lt;font color=&quot;#000000&quot;&gt;Name&lt;/font&gt;&lt;br&gt;Kubernetes Engine" style="sketch=0;dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=container_engine;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" vertex="1" parent="-NTaaX5w-wmXJWBAAZoD-21">
+        <mxCell id="-NTaaX5w-wmXJWBAAZoD-22" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span&gt;Kubernetes DEV&lt;br&gt;&lt;/span&gt;&lt;/font&gt;Kubernetes&lt;br&gt;Engine" style="sketch=0;dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=container_engine;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" vertex="1" parent="-NTaaX5w-wmXJWBAAZoD-21">
           <mxGeometry y="0.5" width="44" height="39" relative="1" as="geometry">
             <mxPoint x="5" y="-19.5" as="offset" />
           </mxGeometry>
@@ -152,7 +152,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-NTaaX5w-wmXJWBAAZoD-38" value="D2. Uruchomienie aplikacji" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="585" y="145" width="101" height="30" as="geometry" />
+          <mxGeometry x="566" y="145" width="101" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-NTaaX5w-wmXJWBAAZoD-39" value="" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;strokeWidth=2;endSize=4;startSize=4;strokeColor=#EA4335;dashed=0;fontColor=#000000;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-NTaaX5w-wmXJWBAAZoD-19" target="-NTaaX5w-wmXJWBAAZoD-17">
           <mxGeometry width="100" relative="1" as="geometry">
